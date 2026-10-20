@@ -1,4 +1,4 @@
-<a href="https://artkincarreon.site"><img src="assets/header.svg" width="100%" alt="Artkin Carreon. AI-native full-stack developer. Built with purpose. Ready for the people using it." /></a>
+<a href="https://artkincarreon.site"><img src="assets/header-pixel-4k.png" width="100%" alt="Artkin Carreon. AI-native full-stack developer. Built with purpose. Ready for the people using it." /></a>
 
 ### Hi, I’m Artkin.
 
