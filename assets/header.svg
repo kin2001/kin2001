@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Artkin Carreon — AI-native full-stack developer</title>
+  <desc id="desc">Ideas into working products, in weeks, not months. A warm paper banner with an indigo pixel A and connected lines.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#d9d9d4"/></pattern>
+  </defs>
+  <path fill="#f3f1eb" d="M0 0h1200v360H0z"/>
+  <path fill="url(#dots)" d="M0 0h1200v360H0z"/>
+  <path d="M0 0h7v360H0z" fill="#373bab"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="59" font-family="monospace" font-size="13" letter-spacing="3" fill="#565a64">ARTKIN CARREON / AI-NATIVE FULL-STACK DEVELOPER</text>
+    <text x="60" y="139" font-size="49" font-weight="700" letter-spacing="-1.6" fill="#171b1a">Ideas into working products.</text>
+    <text x="60" y="201" font-size="49" font-weight="700" letter-spacing="-1.6" fill="#373bab">In weeks, not months.</text>
+    <text x="60" y="257" font-size="18" fill="#50555c">Web apps. Dashboards. Connected workflows.</text>
+    <text x="60" y="319" font-family="monospace" font-size="13" letter-spacing="1" fill="#50555c">artkincarreon.site</text>
+  </g>
+  <g fill="none" stroke="#a6a8c5" stroke-width="1.5">
+    <path d="M864 259h56v-52h78V99h142"/><path d="M1052 221h88v82h60"/>
+  </g>
+  <g fill="#373bab"><circle cx="864" cy="259" r="3"/><circle cx="998" cy="99" r="3"/><circle cx="1140" cy="221" r="3"/></g>
+  <g transform="translate(928 118) scale(8)" fill="#373bab" shape-rendering="crispEdges">
+    <path d="M6 4h4v1H6zM5 5h2v1H5zM9 5h2v1H9zM4 6h2v6H4zM10 6h2v6h-2zM6 8h4v1H6z"/>
+  </g>
+</svg>
