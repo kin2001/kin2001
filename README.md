@@ -1,8 +1,8 @@
-<a href="https://artkincarreon.site"><img src="assets/header.svg" width="100%" alt="Artkin Carreon. AI-native full-stack developer. Ideas into working products, in weeks, not months." /></a>
+<a href="https://artkincarreon.site"><img src="assets/header.svg" width="100%" alt="Artkin Carreon. AI-native full-stack developer. Built with purpose. Ready for the people using it." /></a>
 
 ### Hi, I’m Artkin.
 
-I build **web apps, dashboards, and connected workflows**. Based in the Philippines, with a background in Computer Engineering.
+I’m Artkin, an **AI-native full-stack developer based in the Philippines**. I connect interfaces, data, and workflows to build software people can use and businesses can keep improving.
 
 I use AI to move the work forward, then review the code, test the important flows, and check what actually works before launch.
 
@@ -10,7 +10,7 @@ I use AI to move the work forward, then review the code, test the important flow
 
 ---
 
-### Selected work
+### Selected builds
 
 **[Portfolio & booking system ↗](https://artkincarreon.site)**  
 A live Next.js application with Google Calendar and Meet booking, secure rescheduling and cancellation, email notifications, and admin tools for appointments and contacts.  
@@ -24,13 +24,13 @@ I independently built the app and backend for automatic scheduled feeding, conne
 A personal automation project connecting Facebook Page inquiries with appointment booking, changes, and email reminders.  
 <sub>n8n · AI-assisted conversations · API integrations</sub>
 
-### How I build
+### My workflow
 
 **Plan → Build → Review → Verify**
 
 I turn a detailed plan into small Linear tasks with clear goals. Independent tasks run in parallel on separate branches, with an orchestrator coordinating development and QA agents. I inspect the changes, resolve issues, and verify the user flows before merging and deploying.
 
-### Tools I work with
+### Stack
 
 **Frontend** &nbsp; Next.js · React · TypeScript · Tailwind CSS  
 **Backend & data** &nbsp; Supabase · PostgreSQL · APIs · Webhooks  
